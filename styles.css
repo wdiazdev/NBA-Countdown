@@ -29,7 +29,7 @@ body {
     border-left: 1px solid #fff;
     backdrop-filter: blur(8px);
     border-radius: 40px;
-    width: 60%;
+    max-width: 60%;
     height: 30%;
 }
 
